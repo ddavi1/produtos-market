@@ -34,4 +34,6 @@ no caso para dar update (PUT) em algum dado é necessario mandar o id dele via b
 
  -- AQUI FINALIZAMOS O CRUD--
 
+![image](https://github.com/ddavi1/produtos-market/assets/111084142/a296eb11-2e97-4950-aca6-d6992c5b0ed4)
+
  
