@@ -1,4 +1,4 @@
-(não está respondendo aos status, mas a API está pronta e funcional). Estou utilizando o flyway para as migrations do banco de dados.
+(não está respondendo aos status corretos, mas a API está pronta e funcional). Estou utilizando o flyway para as migrations do banco de dados.
 
 detalhe que na hora de criar um novo registro (POST) o json é: 
 
