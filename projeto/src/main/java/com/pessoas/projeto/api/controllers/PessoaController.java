@@ -42,7 +42,7 @@ public class PessoaController {
 
     }
 
-    @DeleteMapping("/id")
+    @DeleteMapping("/{id}")
     public void deletarDado(@PathVariable Long id) {
         repository.deleteById(id);
 
